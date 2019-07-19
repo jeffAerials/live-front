@@ -2,4 +2,4 @@
 
 # Git Flow
 
-![](img/git-flow.png)
+![](img/gitflow.png)
