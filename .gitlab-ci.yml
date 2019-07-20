@@ -275,6 +275,7 @@ review:
   except:
     refs:
       - master
+      - develop
     variables:
       - $REVIEW_DISABLED
 
@@ -299,6 +300,7 @@ stop_review:
   except:
     refs:
       - master
+      - develop
     variables:
       - $REVIEW_DISABLED
 
