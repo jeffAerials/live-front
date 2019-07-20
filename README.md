@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## For contrib
 
-Refer to documentaion: [Doc-construc](doc-construct/README.md).
+Refer to documentation: [Doc-construc](doc-construct/README.md).

@@ -4,5 +4,27 @@
 
 ![](img/gitflow.png)
 
-## Règles de commits
-a. 1 commit par fonctionalité
+## Commits rules
+a. First, 1 commit by feature
+
+b. commit title and description rules  
+```sh
+    <type>:<subject>
+    <description>
+    example:
+    feat:Add Sass instead of css
+    Add npm Sass dependencies and replace in 
+    angular-cli.json the stylesheet type in by sass
+    
+ ```
+ 
+   for this we use precommit git hook
+   
+   ### Git Hook in precommit
+   
+   this project is set to use TSLint before commit and test commit rules
+   
+   if your code don't pass TSLint and commit rules your commit action are not executed
+   
+   we use husky npm package installed in this project to setup this fonction
+
