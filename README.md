@@ -1,3 +1,11 @@
+[![pipeline status: master](https://gitlab.com/JeffReb/live-front/badges/master/pipeline.svg)](https://gitlab.com/JeffReb/live-front/commits/master)
+
+[![pipeline status: dev](https://gitlab.com/JeffReb/live-front/badges/develop/pipeline.svg)](https://gitlab.com/JeffReb/live-front/commits/develop)
+
+[![coverage report: master](https://gitlab.com/JeffReb/live-front/badges/master/coverage.svg)](https://gitlab.com/JeffReb/live-front/commits/master)
+
+[![coverage report: dev](https://gitlab.com/JeffReb/live-front/badges/develop/coverage.svg)](https://gitlab.com/JeffReb/live-front/commits/develop)
+
 # LiveFront
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
