@@ -3,3 +3,6 @@
 # Git Flow
 
 ![](img/gitflow.png)
+
+## Règles de commits
+a. 1 commit par fonctionalité
