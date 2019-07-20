@@ -27,4 +27,6 @@ b. commit title and description rules
    if your code don't pass TSLint and commit rules your commit action are not executed
    
    we use husky npm package installed in this project to setup this fonction
+   
+   
 
