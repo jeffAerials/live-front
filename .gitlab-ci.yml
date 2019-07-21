@@ -91,9 +91,8 @@ test:
     - npm install --save-dev @angular-devkit/build-angular
   script:
     - ng lint
-    - ng test --progress false --watch false
+    - ng test --progress false --watch false --code-coverage true
     - ng e2e
-    - ng test --code-coverage
   coverage: /All files\s*\|\s*([\d\.]+)/
   only:
     - merge_requests
