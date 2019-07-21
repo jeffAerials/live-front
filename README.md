@@ -1,7 +1,12 @@
-master: [![pipeline status](https://gitlab.com/JeffReb/live-front/badges/master/pipeline.svg)](https://gitlab.com/JeffReb/live-front/commits/master)
-develop branch: [![pipeline status](https://gitlab.com/JeffReb/live-front/badges/develop/pipeline.svg)](https://gitlab.com/JeffReb/live-front/commits/develop)
-master: [![coverage report](https://gitlab.com/JeffReb/live-front/badges/master/coverage.svg)](https://gitlab.com/JeffReb/live-front/commits/master)
-develop branch: [![coverage report](https://gitlab.com/JeffReb/live-front/badges/develop/coverage.svg?job=test)](https://gitlab.com/JeffReb/live-front/commits/develop)
+Master:
+
+[![pipeline status](https://gitlab.com/JeffReb/live-front/badges/master/pipeline.svg)](https://gitlab.com/JeffReb/live-front/commits/master)
+[![coverage report](https://gitlab.com/JeffReb/live-front/badges/master/coverage.svg)](https://gitlab.com/JeffReb/live-front/commits/master)
+
+Develop branch:
+
+[![pipeline status](https://gitlab.com/JeffReb/live-front/badges/develop/pipeline.svg)](https://gitlab.com/JeffReb/live-front/commits/develop)
+[![coverage report](https://gitlab.com/JeffReb/live-front/badges/develop/coverage.svg?job=test)](https://gitlab.com/JeffReb/live-front/commits/develop)
 
 # LiveFront
 
