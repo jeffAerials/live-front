@@ -93,7 +93,7 @@ test:
     - ng lint
     - ng test --progress false --watch false --code-coverage true
     - ng e2e
-  coverage: /All files\s*\|\s*([\d\.]+)/
+  coverage: /^Statements\s*:\s*([^%]+)/m
   artifacts:
     paths:
     - coverage/
