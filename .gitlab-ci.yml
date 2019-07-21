@@ -94,6 +94,9 @@ test:
     - ng test --progress false --watch false --code-coverage true
     - ng e2e
   coverage: /All files\s*\|\s*([\d\.]+)/
+  artifacts:
+    paths:
+    - coverage/
   only:
     - merge_requests
     - branches
