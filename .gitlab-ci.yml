@@ -159,7 +159,7 @@ performance:
     - sitespeed-results/
   only:
     refs:
-      - branches
+      - master
       - tags
     kubernetes: active
   except:
