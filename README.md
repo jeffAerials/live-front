@@ -7,6 +7,7 @@ Develop branch:
 
 [![pipeline status](https://gitlab.com/JeffReb/live-front/badges/develop/pipeline.svg)](https://gitlab.com/JeffReb/live-front/commits/develop)
 [![coverage report](https://gitlab.com/JeffReb/live-front/badges/develop/coverage.svg?job=test)](https://gitlab.com/JeffReb/live-front/commits/develop)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/06920f04b1a244678e4ac60f395e90b3)](https://www.codacy.com/app/jeffAerials/live-front?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jeffAerials/live-front&amp;utm_campaign=Badge_Grade)
 
 # LiveFront
 
